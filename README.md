@@ -5,7 +5,7 @@ Learning from crowds describes that the annotations of training data are obtaine
 
 
 ### Running the code on Fashion-MNIST Dataset:
-put Fashion-MNIST dataset in data folder, and run the code by using the provided script.
+Put Fashion-MNIST dataset in data folder, and run the code by using the provided script.
 
 
 ### Citation:
